@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-# Telegram Bot Dependencies
-# The bot uses only Python standard library (json, time, urllib, traceback, ssl)
-# No external dependencies required!
-=======
-# Telegram Bot Dependencies
-# The bot uses only Python standard library (json, time, urllib, traceback, ssl)
-# No external dependencies required!
->>>>>>> 42db50761f0bcdccd8b7e749d8f7603971ebbab2
+fastapi
+uvicorn[standard]
