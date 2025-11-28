@@ -1,0 +1,3 @@
+# Telegram Bot Dependencies
+# The bot uses only Python standard library (json, time, urllib, traceback, ssl)
+# No external dependencies required!

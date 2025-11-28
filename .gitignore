@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.env
+.DS_Store
+venv/
+env/
+bot_data.json
+cookies.txt
+.vscode/
+.idea/
+*.json
