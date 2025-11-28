@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.pyc
 __pycache__/
 *.egg-info/
@@ -12,3 +13,19 @@ cookies.txt
 .vscode/
 .idea/
 *.json
+=======
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.env
+.DS_Store
+venv/
+env/
+bot_data.json
+cookies.txt
+.vscode/
+.idea/
+*.json
+>>>>>>> 42db50761f0bcdccd8b7e749d8f7603971ebbab2
